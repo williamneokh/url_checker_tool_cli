@@ -4,8 +4,9 @@
 1. Get your telegram bot api token
 2. Create telegram channel and get the ID. (need to invite your bot into the channel)
 3. Create an .env file with the following variable:
-    BOTTOKEN=<your bot api token here e.g 1234567890:AAHYlkjsd8slokfo9sidfedsdf_dfrld>
-    CHANNEL=<your telegram channel id here e.g -837423794>
+1. BOTTOKEN=<your bot api token here e.g 1234567890:AAHYlkjsd8slokfo9sidfedsdf_dfrld>
+2. CHANNEL=<your telegram channel id here e.g -837423794>
+
 
 ## Configure your application
 
