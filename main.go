@@ -31,7 +31,7 @@ func main() {
 
 	var wg sync.WaitGroup
 
-	checker.URLCheckStart(testdata.URLshort, &wg)
+	checker.URLCheckStart(testdata.CustomURL, &wg)
 
 	wg.Wait()
 }
