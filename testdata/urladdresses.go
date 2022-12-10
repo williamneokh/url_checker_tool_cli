@@ -21,6 +21,7 @@ var (
 		"https://www.science.gov/",
 		"https://www.nature.com/",
 		"https://www.facebook.com",
+		"https://www.enyah.art",
 	}
 	URL100 = []string{
 		"https://www.science.org/",
